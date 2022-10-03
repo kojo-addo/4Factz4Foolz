@@ -1,0 +1,4 @@
+~ $ gem install bundler jekyll
+~ $ jekyll CoolSite
+~ $ cd CoolSite
+~/CoolSite $ bundle exec jekyll serve
