@@ -2,6 +2,6 @@
 
 
 
-CoolSite is a cool site for cool people. 
+CoolSite is a cool site for cool things. 
 
 ## CoolDogs
