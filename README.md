@@ -4,4 +4,6 @@
 
 CoolSite is a cool site for cool things. 
 
-## CoolDogs
+## #1 CoolDogs
+
+Dogs are cool!
