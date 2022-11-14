@@ -2,9 +2,7 @@
 
 
 
-CoolSite is a cool site for cool things. 
-
-## #1 You're not acutually a fool
+#### #1 You're may not acutualy be a fool
 
 Your brain's storage capacity is considered virtually unlimited, so even if you are a fool you can always get smarter. :)
 
