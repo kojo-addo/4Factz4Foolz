@@ -18,5 +18,5 @@ If you didn't know this you are a FutileFool, completely hopeless.
 ![image](https://i.redd.it/qnqdd2bnl8q11.jpg)
 
 ##            #4 You can find more facts to make you smarter below!
-https://www.factinate.com/things/42-scientific-facts-make-smartest-person-room/, GoodLuck!!!
+[link with title](https://www.factinate.com/things/42-scientific-facts-make-smartest-person-room/ 'GET SMARTER HERE'), GoodLuck!!!
 
