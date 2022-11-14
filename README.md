@@ -2,7 +2,7 @@
 
 
 
-##            #1 You may not actually be a fool
+##            #1 You may not actually be a fool.
 
 Your brain's storage capacity is considered virtually unlimited, so even if you are a fool you can always get smarter. :)
 
